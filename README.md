@@ -1,5 +1,9 @@
 # WoodStock React Challenge
 
+<p align="center">
+  <img width="240" src="react-logo.png">
+</p>
+
 ### Description
 
 This our first React app.  
