@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WoodStock/static/css/main.7ea4629c.chunk.css",
+    "main.js": "/WoodStock/static/js/main.467c3f37.chunk.js",
+    "main.js.map": "/WoodStock/static/js/main.467c3f37.chunk.js.map",
+    "runtime-main.js": "/WoodStock/static/js/runtime-main.39750586.js",
+    "runtime-main.js.map": "/WoodStock/static/js/runtime-main.39750586.js.map",
+    "static/js/2.a85eb3ef.chunk.js": "/WoodStock/static/js/2.a85eb3ef.chunk.js",
+    "static/js/2.a85eb3ef.chunk.js.map": "/WoodStock/static/js/2.a85eb3ef.chunk.js.map",
+    "index.html": "/WoodStock/index.html",
+    "precache-manifest.02d73702ccec7ad4fe6a5c8ccc63fb6b.js": "/WoodStock/precache-manifest.02d73702ccec7ad4fe6a5c8ccc63fb6b.js",
+    "service-worker.js": "/WoodStock/service-worker.js",
+    "static/css/main.7ea4629c.chunk.css.map": "/WoodStock/static/css/main.7ea4629c.chunk.css.map",
+    "static/js/2.a85eb3ef.chunk.js.LICENSE.txt": "/WoodStock/static/js/2.a85eb3ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WoodStock/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/WoodStock/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/WoodStock/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39750586.js",
+    "static/js/2.a85eb3ef.chunk.js",
+    "static/css/main.7ea4629c.chunk.css",
+    "static/js/main.467c3f37.chunk.js"
+  ]
+}
