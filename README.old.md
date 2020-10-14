@@ -1,2 +1,0 @@
-# WoodStock
-WoodStock React Challenge
