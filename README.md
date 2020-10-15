@@ -10,7 +10,7 @@ This our first React app.
 The goal is to create a basic one-page application.  
 In this case, I chose to build a page around the theme of Breaking Bad, using the [Breaking Bad API](https://breakingbadapi.com/Documentation).  
 The app fetches data from the API and displays the result as a grid of cards.  
-There is a search field that allows the user to filter the results by name.
+There is a search field that allows the user to filter the results by character name.
 
 ### Link
 
